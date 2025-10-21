@@ -1,0 +1,14 @@
+{
+    "protocolVersion": "2025-03-26",
+    "capabilities": {
+        "tools": {
+            "listChanged": false
+        }
+    },
+    "serverInfo": {
+        "name": "Demo Weather Server",
+        "title": "Demo Weather Server",
+        "version": "1.0.0"
+    },
+    "instructions": "You are helping me demo this MCP Server to students. This demo provides weather information based on location input."
+}
